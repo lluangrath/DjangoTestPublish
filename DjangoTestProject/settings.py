@@ -26,7 +26,7 @@ SECRET_KEY = '520ba358-1df9-4aae-8209-785a23a810a3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djangotest-git.herokuapp.com']
 
 
 # Application definition
